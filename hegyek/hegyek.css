@@ -35,4 +35,7 @@ article.folyamat {
   clear: both;
   margin-bottom: 100px;
   display: inline-block;
+  padding: 20px;
+  text-align: justify;
+  background-color: #c8c8c860;
 }
